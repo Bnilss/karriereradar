@@ -17,8 +17,11 @@ My solution to this problem is to scrape/gather job posts in the state and displ
 - GUI launcher so not command line.
 - check for updates of the instruction file from github.
 
+#### Disclaimer
+the main purpose of this repo is to act as *a host* for the .cbot file, to allow the web app to check for **updates**.
+
 ## TODO:
-- [ ] complete this repo (code, screenshots, etc)
+- [ ] complete this repo (demo code, screenshots, etc)
 - [ ] improve the UI
 - [ ] improve deployment
 - [ ] checkup/tests
